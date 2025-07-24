@@ -36,7 +36,7 @@ class Resume extends Component {
                  {education}
                </div>
             </div>
-         </div>
+          </div>
       </div>
 
 

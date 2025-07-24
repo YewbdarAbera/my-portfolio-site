@@ -1,40 +1,30 @@
 {
   "main": {
     "name": "Yewbdar Abera",
-    "occupation": "ReactJS Developer ",
-    "description": "Full Stack web application/React Developer. #papaReact",
+    "occupation": "Software Engineer/Front-End developer. ",
     "image": "profile.jpg",
-    "bio": "My name is Yewbdar, I'm a Front End ReactJS Developer. Currently I'm working at WDVG petroleum engineering laboratories  ",
+    "bio": "My name is Yewbdar, I'm a Front-End Developer with over 5 years of experience building responsive, user-friendly web apps using React, JavaScript, and modern UI tools. I recently worked on financial tools at US Bank and built a full-stack portfolio project to sharpen my skills. I'm passionate about clean code, performance, and creating great user experiences.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "yewbdar.grima@gmail.com",
     "phone": "832 297 5191",
     "address": {
-      "street": "4306 N Quinlan park rd",
-      "city": "Austin",
+      "street": "317 Rieti Pkwy",
+      "city1": "Liberty Hill",
       "state": "Tx",
-      "zip": "78732"
+      "city": "Texas",
+      "zip": "78642"
     },
     "website": "https://www.timbakerdev.com",
     "resumedownload": "https://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/yewbdar-abera/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Yewbdar",
         "className": "fa fa-github"
       }
     ]
@@ -43,6 +33,11 @@
     "skillmessage": "Passionate about translating designs and wireframes into high-quality code. Build a business-critical web-based application using core technologies",
     "education": [
       {
+        "school": "Addis Ababa University",
+        "degree": "B.Sc. Computer science ",
+        "graduated": "Jun 2012",
+        "description": "I graduated with very good grades."
+      },{
         "school": "University of Texas (bootcamp)",
         "degree": "Certified in full stack developer ",
         "graduated": "July 2018",
@@ -51,16 +46,28 @@
     ],
     "work": [
       {
-        "company": "WDVG petroleum engineering laboratories",
+        "company": "Freelance Projects / Personal Network",
         "title": "Front End /React developer",
-        "years": "Dec 2019 - Present",
-        "description": "Improved and added new features to the FieldEdge application."
+        "years": "Jan 2025 - Present",
+        "description": "Redesigned the UI for a local restaurant’s online ordering system, improving user navigation, mobile responsiveness, and visual consistency across devices to boost completed orders by 30%. For more details, please download my resume."
       },
       {
-        "company": "YO’S Technology ",
-        "title": "web app devloper ",
-        "years": "Oct 2018 - Nov 2019",
-        "description": "Building hotel management system"
+        "company": "US Bank",
+        "title": "Software Engineer - UI",
+        "years": "Mar 2022 - Oct 2024",
+        "description": "Developed the Income & Expense Widget, enhancing financial tracking and user engagement on usbank.com. For more details, please download my resume."
+      },
+      {
+        "company": "RappidDeploy",
+        "title": "Software Engineer React/UI/UX",
+        "years": "Dec 2020 - Dec 2021",
+        "description": "Developed scalable user interfaces using React.js, ensuring modular and maintainable front-end architecture.Built reusable UI components following Atomic Design principles, improving consistency and reusability across applications.For more details, please download my resume."
+      },
+      {
+        "company": "WDVG petroleum engineering laboratories",
+        "title": "Front End /React developer",
+        "years": "Dec 2019 - Oct 2020",
+        "description": "Improved and added new features to the FieldEdge application.For more details, please download my resume."
       }
     ],
     "skills": [

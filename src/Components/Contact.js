@@ -83,7 +83,7 @@ const Contact = ({ data }) => {
 					   <p className="address">
 						   {data?.name}<br />
 						   {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
+						   {data?.address.city1}, {data?.address.state} {data?.address.zip}<br />
 						   <span>{data?.phone}</span>
 					   </p>
 				   </div>
